@@ -77,3 +77,14 @@ python scanner.py 10.0.0.5 --range 1 1000
 
 ## Author
 Hemanth M
+
+
+## Screenshots
+
+### Port Scanner Output
+![Port Scanner Running](screenshots/Screenshot 2026-02-08 163955.png)
+
+### Common Ports Scan
+![Common Ports Scan](screenshots/Screenshot 2026-02-08 164007.png)
+
+![Common Ports Scan](screenshots/Screenshot 2026-02-08 164016.png)
