@@ -81,10 +81,11 @@ Hemanth M
 
 ## Screenshots
 
-### Port Scanner Output
-![Port Scanner Running](screenshots/sc1.png)
+### Localhost Scan (Open Ports Detected)
+![Localhost Scan](screenshots/sc1.png)
 
-### Common Ports Scan
-![Common Ports Scan](screenshots/sc2.png)
+### Full Network Port Scan
+![Full Scan](screenshots/sc2.png)
 
-![Common Ports Scan](screenshots/sc3.png)
+### SMTP and DNS Ports Detected
+![SMTP DNS Scan](screenshots/sc3.png)
