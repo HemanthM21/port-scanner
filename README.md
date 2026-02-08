@@ -82,9 +82,9 @@ Hemanth M
 ## Screenshots
 
 ### Port Scanner Output
-![Port Scanner Running](screenshots/Screenshot 2026-02-08 163955.png)
+![Port Scanner Running](screenshots/sc1.png)
 
 ### Common Ports Scan
-![Common Ports Scan](screenshots/Screenshot 2026-02-08 164007.png)
+![Common Ports Scan](screenshots/sc2.png)
 
-![Common Ports Scan](screenshots/Screenshot 2026-02-08 164016.png)
+![Common Ports Scan](screenshots/sc3.png)
